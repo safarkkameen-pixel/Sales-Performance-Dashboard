@@ -53,4 +53,4 @@ Developed an interactive Sales Performance Dashboard using Power BI to analyze b
 ---
 
 ### 🎥 Demo Video
-
+[Click here to watch the demo](./pbi-project-1.mp4)
